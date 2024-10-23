@@ -1,0 +1,16 @@
+# ninja log v5
+6	829	6739211685487844	CMakeFiles/Lab9_10.dir/Repository/Repo.cpp.obj	f6d12e6bd1164590
+23	814	6739211685305123	CMakeFiles/Lab9_10.dir/Domain/Product.cpp.obj	6652400cb5395a12
+5	84	6739142749761362	CMakeFiles/Lab9_10.dir/Tests/Tests.cpp.obj	4f10ede7c4479a78
+3	717	6739513742306497	CMakeFiles/Lab9_10.dir/app.cpp.obj	afb228cba8367536
+26	467	6739513739822061	CMakeFiles/Lab9_10.dir/Domain/Money.cpp.obj	bdd3963ed9977a36
+4	801	6739513861593353	CMakeFiles/Lab9_10.dir/Service/Service.cpp.obj	f8e5e42774a9a7c9
+2	418	6745544385783045	build.ninja	d3ed262372022a30
+802	1144	6739513864964116	Lab9_10.exe	aa50159241f69010
+30	531	6739513740452201	CMakeFiles/Lab9_10.dir/UserInterface/UI.cpp.obj	56d3911b2930967c
+44	891	6739211686108577	CMakeFiles/Lab9_10.dir/Repository/RepoFile.cpp.obj	d53677c85f30a159
+56	1077	6745571676193298	CMakeFiles/Lab9_10.dir/Repository/Repo.cpp.obj	f6d12e6bd1164590
+49	1165	6745571677073421	CMakeFiles/Lab9_10.dir/UserInterface/UI.cpp.obj	56d3911b2930967c
+9	1619	6745571681628055	CMakeFiles/Lab9_10.dir/app.cpp.obj	afb228cba8367536
+42	1750	6745571682972976	CMakeFiles/Lab9_10.dir/Service/Service.cpp.obj	f8e5e42774a9a7c9
+1756	2432	6745571689787700	Lab9_10.exe	aa50159241f69010
