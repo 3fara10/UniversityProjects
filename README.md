@@ -14,7 +14,7 @@ This repository contains a collection of my key university projects. Each projec
    - **Description**: This project simulates an ATM machine with functionalities like withdrawing cash, checking balances, and depositing money. It uses C++ collection data types such as arrays and vectors for managing accounts and transactions.
    - **Technologies Used**: C++, Arrays, Vectors.
    - **Skills**: Object-Oriented Programming (OOP), Data Structures.
-   - [https://github.com/3fara10/UniversityProjects/tree/main/Atm](./ATM-System-Cpp)
+   - [Atm](./ATM-System-Cpp)
 
 ---
 
