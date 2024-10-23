@@ -1,0 +1,15 @@
+# ninja log v5
+14	1235	7378382779807614	CMakeFiles/L2_2_.dir/main.cpp.obj	3938a4dcfa4e27a1
+27	778	7377364679930164	CMakeFiles/L2_2_.dir/money.cpp.obj	422d91a9bcf88b05
+1299	1430	7378382781789128	L2_2_.exe	47dca215d52929aa
+21	1299	7378382780520949	CMakeFiles/L2_2_.dir/tests.cpp.obj	41f42e9f904f61ff
+8	89	7370656405713991	CMakeFiles/L2_2_.dir/vectordinamic.cpp.obj	c4b357100f486c9c
+25	1279	7378382780321492	CMakeFiles/L2_2_.dir/atm.cpp.obj	f338efa18f90be77
+3	295	7378386012974498	build.ninja	1463e449dcb71ddf
+32	1254	7378382780017056	CMakeFiles/L2_2_.dir/ui.cpp.obj	72f1f1befa2ffb25
+48	671	7378899491039176	CMakeFiles/L2_2_.dir/money.cpp.obj	422d91a9bcf88b05
+43	1193	7378899496261933	CMakeFiles/L2_2_.dir/main.cpp.obj	3938a4dcfa4e27a1
+53	1268	7378899497005137	CMakeFiles/L2_2_.dir/tests.cpp.obj	41f42e9f904f61ff
+58	1274	7378899497064985	CMakeFiles/L2_2_.dir/atm.cpp.obj	f338efa18f90be77
+63	1288	7378899497214582	CMakeFiles/L2_2_.dir/ui.cpp.obj	72f1f1befa2ffb25
+1288	1414	7378899498400192	L2_2_.exe	47dca215d52929aa
